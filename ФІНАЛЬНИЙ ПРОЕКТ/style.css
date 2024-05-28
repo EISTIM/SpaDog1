@@ -1,0 +1,142 @@
+*{
+padding: 0;
+margin: 0;
+}
+.header{
+    background-color: #121212;
+    padding-top: 32px;
+    padding-bottom: 32px;
+
+}
+.header-link{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.active{
+    color: #B2FFA6;
+}
+.header-list{
+    display: flex;
+}
+.contaniner{
+    width: 1340px;
+    margin: 0 auto;
+}
+.header-items{
+    margin-right: 100px;
+}
+.picture{
+    width: 600px;
+}
+.section-flex{
+    display: flex;
+    justify-content: space-between;
+}
+.section-left{
+    padding-top: 150px;
+}
+.section-texs{
+    font-size: 64px;
+    font-weight: normal;
+}
+.button{
+    background-color: #B2FFA6;
+    width: 364px;
+    height: 66px;
+    border: none;
+    margin-top: 50px;
+}
+.section-2{
+    background-color: #EFEFEF;
+}
+.pictyre-two{
+    width: 600px;
+}
+.text{
+   margin-top: 30px;
+}
+.text-p{
+    margin-bottom: 16px;
+}
+.section-2-right{
+    margin-top: 230px;
+}
+.button-two{
+    background-color: #B2FFA6;
+    width: 364px;
+    height: 66px;
+    border: none;
+    margin-top: 50px;
+}
+.class-left{
+    width: 929px;
+    display: flex;
+    gap: 115px;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    align-content: flex-start;
+}
+.picture-bloc{
+ width: 320px;
+}
+.p-2{
+    margin-top: 25px;
+}
+.section-servises{
+    background-color:#EFEFEF;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.h2-content{
+   text-align: center;
+}
+.p-content{
+   text-align: center;
+   margin-top:40px ;
+   margin-bottom: 56px;
+}
+.img-content{
+    width: 300px;
+    height: 230px;
+}
+.button-content{
+   padding: 15px 80px;
+   margin-top: 70px;
+
+   border: solid 3px #B2FFA6;
+}
+.section-button{
+    display: flex;
+    justify-content: center;
+}
+.services-list{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    list-style: none;
+}
+.footer{
+    background-color: black;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left:151px ;
+    padding-right:150px ;
+}
+.footer-text{
+    font-family: var(--font-family);
+font-weight: 400;
+font-size: 24px;
+text-transform: capitalize;
+color: #fff;
+}
+.footer-box{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+.section-3{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
